@@ -13,7 +13,7 @@ This project analyzes the Titanic disaster and predicts the survival of passenge
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
 - [Conclusion](#conclusion)
-- [License](#license)
+
 
 ## Introduction
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. This project aims to predict whether a given passenger survived the Titanic disaster using machine learning techniques. The model is trained on the Titanic dataset provided by Kaggle, utilizing features such as age, gender, class, and more.
