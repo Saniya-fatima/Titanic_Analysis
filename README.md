@@ -1,5 +1,5 @@
 
-Titanic Survival Prediction
+ ## Titanic Survival Prediction
 
 This project analyzes the Titanic disaster and predicts the survival of passengers using a Logistic Regression model implemented with Scikit-Learn.
 
