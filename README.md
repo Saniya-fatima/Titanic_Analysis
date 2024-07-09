@@ -62,6 +62,4 @@ The model's performance is evaluated using accuracy, precision, recall, and F1 s
 ## Conclusion
 The Logistic Regression model provides a baseline for predicting survival on the Titanic. Future improvements could include trying different machine learning algorithms, tuning hyperparameters, and incorporating additional features.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
